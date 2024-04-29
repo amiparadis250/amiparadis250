@@ -1,5 +1,5 @@
 # 💫 About Me:
-🫥 I’m ISHIMWE Ami Paaradis, a full-stack developer based in Kigali, Rwanda
+🫥 I’m ISHIMWE Ami Paaradis, a full-stack developer based in Kigali, Rwanda<br/>
 🚀Don't hesitate to entrust me with your project; I promise to design a system that not only meets but exceeds your expectations🌟
 
 ## 🌐 Socials:
