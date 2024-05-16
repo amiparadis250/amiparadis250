@@ -8,7 +8,10 @@
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:pishimweaime7@gmail.com)
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en'>
+div align=center>
+    <img width=450 src='https://github-readme-stats.vercel.app/api?username=amiparadis2502&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
+    <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="amiparadis250" />
+</div>
 
 
 # 💻 Tech Stacks:
