@@ -9,7 +9,7 @@
 
 
 <div align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=amiparadis2502&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
+  <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en'>
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages">
 </div>
 
