@@ -11,9 +11,9 @@
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en'>
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages">
-
-</div>
 <a href="https://app.daily.dev/amiparadis250"><img src="https://api.daily.dev/devcards/v2/fVzNs29IfnvJmRT3E1DzK.png?type=wide&r=azi" width="652" alt="Ami Paradis ISHIMWE's Dev Card"/></a>
+</div>
+
 
 
 
