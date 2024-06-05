@@ -12,6 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact" style="height:200px;" alt="amiparadis250" />
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabmukunzi&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
 
