@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishimwe-ami-paradis-14b34026a/)
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:pishimweaime7@gmail.com)
 
-
+<div style="display:flex;">
+  <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en' style="height:200px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact" style="height:200px;" alt="amiparadis250" />
+</div>
 
 
 
