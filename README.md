@@ -12,6 +12,8 @@
 
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/rwanda/USERNAME.svg)](https://user-badge.committers.top/rwanda/amiparadis250)
+
 
 
 
