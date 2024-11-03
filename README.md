@@ -11,7 +11,7 @@
 <div style="display:flex;">
   
   <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en' style="height:200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadi250&show_icons=true&locale=en&layout=compact" style="height:200px;" alt="amiparadis250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiparadis250&show_icons=true&locale=en&layout=compact" style="height:200px;" alt="amiparadis250" />
 
 </div>
 
