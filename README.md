@@ -9,6 +9,7 @@
 [![committers.top badge](https://user-badge.committers.top/rwanda/amiparadis250.svg)](https://user-badge.committers.top/rwanda/amiparadis250)
 
 <div style="display:flex;">
+  
   <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en' style="height:200px;">
 
 </div>
