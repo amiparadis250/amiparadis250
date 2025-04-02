@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ami_paradis/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AmiParadis) 
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:pishimweaime7@gmail.com)
-[![committers.top badge](https://user-badge.committers.top/rwanda/amiparadis250.svg)](https://user-badge.committers.top/rwanda/amiparadis250)
+
 
 <div style="display:flex;">
   
