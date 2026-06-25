@@ -71,12 +71,12 @@ Don't hesitate to entrust me with your project; I promise to design a system tha
 
 <div>
 
-<img alt="Huawei ICT Competition, 2025-2026" src="https://img.shields.io/badge/Huawei_ICT_2025--2026-2nd_Prize_·_Sub--Saharan_Africa_·_AI_%26_Innovation-1A56DB?style=for-the-badge&logoColor=white" />
+<img alt="Huawei ICT Competition 2025-2026" src="https://img.shields.io/badge/Huawei_ICT_Competition_2025--2026-2nd_Prize_·_Regional_Level_·_AI_%26_Innovation-1A56DB?style=for-the-badge&logoColor=white" />
 
-<img alt="Huawei ICT Competition, 2024-2025" src="https://img.shields.io/badge/Huawei_ICT_2024--2025-2nd_Prize_·_Sub--Saharan_Africa_·_AI_%26_Innovation-1A56DB?style=for-the-badge&logoColor=white" />
+<img alt="Huawei ICT Competition 2024-2025" src="https://img.shields.io/badge/Huawei_ICT_Competition_2024--2025-2nd_Prize_·_Regional_Level_·_AI_%26_Innovation-1A56DB?style=for-the-badge&logoColor=white" />
 
 <img alt="Seeds for the Future" src="https://img.shields.io/badge/Seeds_for_the_Future-Global_Cohort_·_Aug_2025_·_China_·_100%2B_Countries-1E1E2E?style=for-the-badge&logoColor=white" />
 
-<img alt="Andela ATLP" src="https://img.shields.io/badge/Andela_ATLP-9--Month_Full--Stack_Engineering_Program_·_Kigali-4B5563?style=for-the-badge&logoColor=white" />
+<img alt="Andela Technical Leadership Program" src="https://img.shields.io/badge/Andela_Technical_Leadership_Program-9--Month_Full--Stack_Engineering_·_Kigali-4B5563?style=for-the-badge&logoColor=white" />
 
 </div>
