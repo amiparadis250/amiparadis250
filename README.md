@@ -48,13 +48,35 @@ Don't hesitate to entrust me with your project; I promise to design a system tha
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+**Testing & Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI & Integrations**
+
+![Botpress](https://img.shields.io/badge/Botpress-00AEF0?style=for-the-badge&logo=botpress&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Achievements
 
-| | Award | Details |
-|---|---|---|
-| 🥈 | Huawei ICT Competition 2025–2026 | 2nd Prize · Sub-Saharan Africa Regional Level · AI & Innovation Track |
-| 🥈 | Huawei ICT Competition 2024–2025 | 2nd Prize · Sub-Saharan Africa Regional Level · AI & Innovation Track |
-| 🌏 | Huawei Seeds for the Future | Global cohort · August 2025 · Shenzhen, China · 100+ countries |
-| 🎓 | Andela ATLP | 9-month Full-Stack Engineering Leadership Program · Kigali |
+<div>
+
+<img alt="Huawei ICT 2025-2026" src="https://img.shields.io/badge/Huawei_ICT_2025--2026-2nd_Prize_·_Sub--Saharan_Africa_·_AI_%26_Innovation-FF0000?style=for-the-badge&logoColor=white" />
+
+<img alt="Huawei ICT 2024-2025" src="https://img.shields.io/badge/Huawei_ICT_2024--2025-2nd_Prize_·_Sub--Saharan_Africa_·_AI_%26_Innovation-FF0000?style=for-the-badge&logoColor=white" />
+
+<img alt="Seeds for the Future" src="https://img.shields.io/badge/Seeds_for_the_Future-Global_Cohort_·_Aug_2025_·_China_·_100%2B_Countries-FF0000?style=for-the-badge&logoColor=white" />
+
+<img alt="Andela ATLP" src="https://img.shields.io/badge/Andela_ATLP-9--Month_Full--Stack_Engineering_Program_·_Kigali-000000?style=for-the-badge&logoColor=white" />
+
+</div>
