@@ -1,8 +1,8 @@
 # 💫 About Me:
-🫥 I’m ISHIMWE Ami Paradis, a full-stack developer based in Kigali, Rwanda<br/>
-🚀Don't hesitate to entrust me with your project; I promise to design a system that not only meets but exceeds your expectations🌟
+I’m ISHIMWE Ami Paradis, a full-stack developer based in Kigali, Rwanda<br/>
+Don't hesitate to entrust me with your project; I promise to design a system that not only meets but exceeds your expectations
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ami_paradis/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AmiParadis) 
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:pishimweaime7@gmail.com)
 
@@ -23,7 +23,7 @@
 
 
 
-# 💻 Tech Stacks:
+# Tech Stacks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
