@@ -7,9 +7,7 @@ Don't hesitate to entrust me with your project; I promise to design a system tha
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AmiParadis)
 [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:pishimweaime7@gmail.com)
 
-<div style="display:flex;">
-  <img src='https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en' style="height:200px;">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiparadis250&show_icons=true&locale=en)
 
 ## Tech Stacks
 
