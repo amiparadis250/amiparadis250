@@ -68,8 +68,9 @@ Don't hesitate to entrust me with your project; I promise to design a system tha
 <div>
 
 
-<img alt="Seeds for the Future" src="https://img.shields.io/badge/Seeds_for_the_Future-Global_Cohort_·_Aug_2025_·_China_·_100%2B_Countries-1E1E2E?style=for-the-badge&logoColor=white" />
 
-<img alt="Andela Technical Leadership Program" src="https://img.shields.io/badge/Andela_Technical_Leadership_Program-9--Month_Full--Stack_Engineering_·_Kigali-4B5563?style=for-the-badge&logoColor=white" />
+
+<img alt="Andela Technical Leadership Program" src="https://img.shields.io/badge/Andela_Technical_Leadership_Program-9--Month_Full--Stack_Engineering_·_-4B5563?style=for-the-badge&logoColor=white" />
+<img alt="Seeds for the Future" src="https://img.shields.io/badge/Seeds_for_the_Future-Global_Cohort_·_Aug_2025_·_China_·_100%2B_Countries-1E1E2E?style=for-the-badge&logoColor=white" />
 
 </div>
