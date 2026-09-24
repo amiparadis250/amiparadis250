@@ -1,6 +1,7 @@
 # About Me
-I'm ISHIMWE Ami Paradis, a full-stack developer based in Kigali, Rwanda<br/>
-Don't hesitate to entrust me with your project; I promise to design a system that not only meets but exceeds your expectations
+Experienced Full-Stack Developer based in Kigali, Rwanda. I thrive on turning ideas into impactful solutions, with a keen eye for detail and a dedication to excellence.
+ 
+Don't hesitate to entrust me with your project. I promise to design a system that not only meets but exceeds your expectations.
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ami_paradis/)
